@@ -6,3 +6,5 @@
 77777777
 99999999
 dddddddd
+bug ok
+bug 1
